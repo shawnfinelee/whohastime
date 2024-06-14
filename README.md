@@ -9,6 +9,7 @@
 - [此项目开源仓库](https://github.com/shawnfinelee/whohastime)
 
 ## ToDo
+- [ ] 完善项目品尝指南
 - [x] git本地/远程仓库
 - [x] 引入三方组件库Vant
 - [x] 自定义TabBar
