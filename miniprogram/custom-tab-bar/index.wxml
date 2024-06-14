@@ -1,0 +1,9 @@
+<!--custom-tab-bar.wxml-->
+<!--components/customTabBar/index.wxml-->
+<van-tabbar active="{{ active }}"
+  bind:change="onChange">
+  <van-tabbar-item icon="home-o">快速开始2</van-tabbar-item>
+  <van-tabbar-item icon="search" dot>基础能力2</van-tabbar-item>
+  <van-tabbar-item icon="setting-o" info="5">业务示例2</van-tabbar-item>
+  <van-tabbar-item icon="friends-o" info="20">我2</van-tabbar-item>
+</van-tabbar>
