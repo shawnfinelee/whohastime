@@ -6,6 +6,7 @@
 
 - [云开发文档](https://developers.weixin.qq.com/miniprogram/dev/wxcloud/basis/getting-started.html)
 - [Vant组件库文档](https://vant-ui.github.io/vant-weapp/#/quickstart)
+- [此项目开源仓库](https://github.com/shawnfinelee/whohastime)
 
 ## ToDo
 - [x] git本地/远程仓库
